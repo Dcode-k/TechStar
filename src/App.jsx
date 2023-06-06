@@ -8,6 +8,7 @@ import './styles/Home.scss'
 import './styles/Footer.scss'
 import './styles/Contact.scss'
 import './styles/mediaquery.scss'
+import './styles/Colors.scss'
 import {BrowserRouter as Router,Routes,Route} from "react-router-dom"
 
 function App() {
